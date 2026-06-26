@@ -351,16 +351,6 @@ graph TD
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Karthikchakala&theme=onedark&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="center">

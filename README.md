@@ -1,4 +1,4 @@
-# Hi there, I'm Karthik Chakala 👋 <img src="https://komarev.com/ghvc/?username=Karthikchakala&style=flat-square&color=blue" alt="Karthikchakala" align="right">
+# Hi there, I'm Karthik Chakala 👋 <img src="https://drive.google.com/file/d/19FsBOsBlZuG4-3cqk_CwLiMW_GiXb07P/view?usp=sharing?username=Karthikchakala&style=flat-square&color=blue" alt="Karthikchakala" align="right">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;Software+Engineering+Student" alt="Typing SVG" />
